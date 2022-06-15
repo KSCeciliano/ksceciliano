@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working **as freelancer**
 
-- 🌱 I’m currently learning **the fullstack technologies**
+- 🌱 I’m currently learning **the fullstack development technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KSCeciliano/](https://github.com/KSCeciliano/)
 
