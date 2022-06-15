@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Ceciliano</h1>
+<h1 align="center">Hi 👋, I'm Kevin S Ceciliano G</h1>
 <h3 align="center">A passionate fullstack developer from Costa Rica</h3>
 
 - 🔭 I’m currently working **as freelancer**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ksceciliano@gmail.com**
 
-- ⚡ Fun fact **I have a TikTok where I upload some gaming clips xd**
+- ⚡ Fun fact **I have a [TikTok](https://tiktok.com/chibigg/) where I upload some gaming clips xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
