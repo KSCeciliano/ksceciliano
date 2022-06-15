@@ -1,5 +1,6 @@
+# KSCeciliano 📚
 <h1 align="center">Hi 👋, I'm Kevin S Ceciliano G</h1>
-<h3 align="center">A passionate fullstack developer from Costa Rica</h3>
+<h3 align="center">A passionate computer engineering student from Costa Rica</h3>
 
 - 🔭 I’m currently working **as freelancer**
 
