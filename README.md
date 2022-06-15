@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ksceciliano@gmail.com**
 
-- ⚡ Fun fact **I have a [TikTok](https://tiktok.com/chibigg/) where I upload some gaming clips xd**
+- ⚡ Fun fact **I have a [TikTok](https://tiktok.com/@chibigg/) where I upload some gaming clips xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
