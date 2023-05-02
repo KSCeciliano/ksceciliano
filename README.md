@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KSCeciliano/](https://github.com/KSCeciliano/)
 
-- 💬 Ask me about **Python, Java, Javascript**
+- 💬 Ask me about **Python, Java, , C/C++, SQL**
 
 - 📫 How to reach me **ksceciliano@gmail.com**
 
