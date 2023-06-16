@@ -1,10 +1,10 @@
 # KSCeciliano 📚
 <h1 align="center">Hi 👋, I'm Kevin S Ceciliano G</h1>
-<h3 align="center">A passionate computer engineering student</h3>
+<h3 align="center">A passionate developer and computer engineering student</h3>
 
-- 🔭 I’m currently working **as freelancer**
+- 🔭 I’m currently working **as Developer**
 
-- 🌱 I’m currently learning **the fullstack development technologies**
+- 🌱 I’m currently learning **PowerBI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KSCeciliano/](https://github.com/KSCeciliano/)
 
