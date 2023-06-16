@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kevin S Ceciliano G</h1>
 <h3 align="center">A passionate developer and computer engineering student</h3>
 
-- 🔭 I’m currently working **as Developer**
+- 🔭 I’m currently working **as Digital Operations Developer**
 
 - 🌱 I’m currently learning **PowerBI**
 
